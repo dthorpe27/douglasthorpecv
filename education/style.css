@@ -1,0 +1,86 @@
+body{
+    background: linear-gradient(30deg, rgb(139, 156, 172) , rgb(81, 92, 102));
+    font-family: 'bahnschrift';
+    margin: 0;
+}
+
+#main-content{
+    display: flex;
+
+}
+#coding {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#coding-logo{
+    height: 125px;
+    width: auto;
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-radius: 20px;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+}
+
+#falmouth{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;    
+    flex-direction: row-reverse;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+#falmouth-logo {
+    height: 125px;
+    width: auto;
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-radius: 20px;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+}
+
+#bath-college{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;    
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+#bathcollege-logo{
+    height: 125px;
+    width: auto;
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-radius: 20px;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+}
+
+#school{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;    
+    flex-direction: row-reverse;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+#wellsway-logo {
+    height: 250px;
+    width: auto;
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-radius: 20px;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+
+}

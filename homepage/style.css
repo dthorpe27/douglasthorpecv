@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(139, 156, 172);
+    font-family: 'bahnschrift';
+}
+
+h1{
+    margin: 0;
+}
+#previous-nav {
+    text-decoration: none;
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-radius: 4px;
+    color: rgba(24, 6, 41);
+    background-color: rgba(36, 143, 243, 0.377);
+    margin-top: 0;
+    
+}
+
+
+#personal_statement{
+    border-style: solid;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-width: 3px;
+    width: 60%;
+    height: 75%;
+    margin: 15px;
+    margin-top: 30px;
+    margin-left: 2%;
+    padding: 10px;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+
+
+}
+
+.contentBox{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.pageContent{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 5%;
+
+
+}
+
+#eduhob { 
+
+    max-width: 100%;
+}
+
+
+
+
+
+.image-links{
+    /* display: grid; */
+    
+}
+
+#experience1 {
+    transition: all .35s ease-in-out;
+}
+
+#experience1:hover {
+    transform: scale(1.1);
+}
+#experience img {
+
+    width:  700px;
+    height: 200px;
+    object-fit: fill;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+
+
+}
+
+#education1 {
+    transition: all .35s ease-in-out;
+}
+
+#education1:hover {
+    transform: scale(1.05);
+}
+#education img {
+    width:  350px;
+    height: 250px;
+    object-fit: fill;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+
+}
+
+#hobbies {
+    transition: all .35s ease-in-out;
+}
+
+#hobbies:hover {
+    transform: scale(1.05);
+}
+#interests img {
+
+    width:  350px;
+    height: 250px;
+    object-fit: fill;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgba(76, 109, 141, 0.781);
+    
+}
+
+#socials {
+    border-style: solid;
+    border-color: rgba(76, 109, 141, 0.781);
+    border-width: 3px;
+    width: 95%;
+    height: 75%;
+    margin:0;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+}
