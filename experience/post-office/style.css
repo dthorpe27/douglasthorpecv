@@ -1,11 +1,11 @@
 body{
     background-color: rgb(139, 156, 172);
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
 }
 
 #previous-nav{
     text-decoration: none!important;
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
     font-size: 40px;
     margin-top: 2%;
     background-color: rgba(36, 143, 243, 0.377);

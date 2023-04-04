@@ -1,12 +1,12 @@
 body{
     background: linear-gradient(30deg, rgb(139, 156, 172) , rgb(81, 92, 102));
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
     margin: 0;
 }
 
 #previous-nav{
     text-decoration: none!important;
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
     font-size: 40px;
     margin-top: 2%;
     background-color: rgba(36, 143, 243, 0.377);
@@ -104,9 +104,8 @@ body{
 }
 
 .summary{
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
     font-size: 20px;
-
     background-color: rgba(86, 105, 122, 0.377);
     border-radius: 5px;
     border-style: solid;

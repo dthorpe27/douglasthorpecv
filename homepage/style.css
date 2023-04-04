@@ -1,6 +1,6 @@
 body{
     background-color: rgb(139, 156, 172);
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
 }
 
 h1{
@@ -8,7 +8,7 @@ h1{
 }
 #previous-nav{
     text-decoration: none!important;
-    font-family: 'bahnschrift';
+    font-family: 'segoe ui';
     font-size: 40px;
     margin-top: 2%;
     background-color: rgba(36, 143, 243, 0.377);
@@ -17,7 +17,7 @@ h1{
     border-color: rgb(139, 156, 172);
     border-width: 3px;
     transition: all .2s ease-in-out;
-    box-shadow: 6px 8px 6px 8px  rgba(16, 46, 75, 0.418);
+    box-shadow: 6px 8px 6px 0px  rgba(16, 46, 75, 0.418);
     color: rgba(24, 6, 41);
 }
 
@@ -26,12 +26,13 @@ h1{
     border-style: solid;
     border-color: rgba(76, 109, 141, 0.781);
     border-width: 3px;
-    height: 75%;
+    border-radius: 5px;
     margin-top: 30px;
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
     box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+    background-color: rgba(95, 114, 131, 0.384);
 
 
 }
