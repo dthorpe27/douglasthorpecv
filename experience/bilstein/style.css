@@ -35,6 +35,7 @@ body{
     border-color: rgba(76, 109, 141, 0.781);
     border-radius: 20px;
     box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+    margin-bottom: 4%;
 }
 
 
@@ -42,8 +43,6 @@ body{
     border-style: solid;
     border-color: rgba(76, 109, 141, 0.781);
     border-width: 3px;
-    width: 40%;
-    height: 75%;
     margin: 0;
     margin-left: 5%;
     padding: 10px;
