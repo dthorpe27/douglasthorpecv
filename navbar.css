@@ -1,0 +1,28 @@
+.navibar{
+    display: flex;
+    justify-content: space-around;
+    background: linear-gradient(30deg, rgb(60, 60, 61) , rgba(65, 68, 71, 0.568));
+    padding-bottom: 25px;
+    box-shadow: 3px 4px 3px 0px  rgba(16, 46, 75, 0.418);
+}
+
+.home{
+    text-decoration: none!important;
+    font-family: 'segoe ui';
+    font-size: 27px;
+    margin-top: 1%;
+    background-color: rgba(36, 143, 243, 0.377);
+    border-style: solid;
+    border-color: rgb(139, 156, 172);
+    border-width: 3px;
+    box-shadow: 3px 4px 3px 0px  rgba(16, 46, 75, 0.418);
+    color: rgba(24, 6, 41);
+}
+.home:hover{
+    background-color: rgba(99, 116, 133, 0.377);
+    border-color: rgb(99, 116, 133, 0.377);
+    border-width: 2.5px;
+
+
+}
+
