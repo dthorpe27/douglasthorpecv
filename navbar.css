@@ -1,6 +1,7 @@
 .navibar{
     display: flex;
     justify-content: space-around;
+    align-items: flex-end;
     background: linear-gradient(30deg, rgb(60, 60, 61) , rgba(65, 68, 71, 0.568));
     padding-bottom: 25px;
     box-shadow: 3px 4px 3px 0px  rgba(16, 46, 75, 0.418);
@@ -26,3 +27,37 @@
 
 }
 
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(36, 143, 243, 0.9);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-style: solid;
+    border-color: rgb(139, 156, 172);
+    border-width: 3px;
+    border-top: none;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {
+    background-color: rgba(99, 116, 133, 0.85);
+
+}
+
+
+.show {display:block;}
