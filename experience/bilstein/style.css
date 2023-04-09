@@ -42,10 +42,13 @@ body{
 #job-info{
     border-style: solid;
     border-color: rgba(76, 109, 141, 0.781);
-    border-width: 3px;
-    margin: 0;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-top: 30px;
     margin-left: 5%;
+    margin-right: 5%;
     padding: 10px;
     box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
+    background-color: rgba(95, 114, 131, 0.384);
     
 }
