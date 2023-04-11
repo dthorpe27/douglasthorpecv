@@ -11,10 +11,10 @@ h1{
 
 
 h2{
-    background: linear-gradient(30deg, rgb(60, 60, 61) , rgba(65, 68, 71, 0.568));
+    background: linear-gradient(30deg, rgba(45, 45, 46, 0.384) , rgba(44, 63, 80, 0.568));
     text-align: center;
     font-size: 50px;
-    color:  rgb(236, 242, 248); 
+    color: rgb(24, 6, 41); 
     height: 75px;
     border-style: solid;
     border-width: thick;

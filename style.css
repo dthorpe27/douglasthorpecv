@@ -21,8 +21,6 @@ body{
         text-shadow: 2px 2px 5px rgba(31, 62, 90, 0.548);
         box-shadow: 12px 10px 10px rgba(16, 46, 75, 0.418);
         background: linear-gradient(30deg, rgb(95, 113, 131, 0.384) , rgba(65, 68, 71, 0.568));
-        color:  rgb(189, 214, 245);
-
 }
 
 
@@ -33,7 +31,7 @@ body{
     position: relative;
     border-radius: 20px;
     border-style: solid;
-    border-width: 5px;
+    border-width: 2.5px;
     border-color: rgba(36, 143, 243, 0.548);
     transition: all .2s ease-in-out;
 }
@@ -55,11 +53,11 @@ body{
     font-family: 'segoe ui';
     font-size: 40px;
     margin-top: 2%;
-    background-color: rgba(36, 143, 243, 0.377);
-    border-radius: 10%;
+    background: linear-gradient(30deg, rgb(95, 113, 131, 0.384) , rgba(65, 68, 71, 0.568));
+    border-radius: 8px;
     border-style: solid;
     border-color: rgb(139, 156, 172);
-    border-width: 5px;
+    border-width: 2.5px;
     transition: all .2s ease-in-out;
     box-shadow: 6px 8px 6px 8px  rgba(16, 46, 75, 0.418);
 }
