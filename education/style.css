@@ -23,6 +23,10 @@ body{
     display: flex;
 
 }
+
+.main {
+    margin-top: 100px; 
+}
 #coding {
     display: flex;
     align-items: center;

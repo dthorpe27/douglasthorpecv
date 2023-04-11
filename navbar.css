@@ -5,6 +5,11 @@
     background: linear-gradient(30deg, rgb(60, 60, 61) , rgba(65, 68, 71, 0.568));
     padding-bottom: 25px;
     box-shadow: 3px 4px 3px 0px  rgba(16, 46, 75, 0.418);
+    background-color: #333;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+    
 }
 
 .home{

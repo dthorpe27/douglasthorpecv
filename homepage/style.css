@@ -26,6 +26,10 @@ h1{
 
 }
 
+.main {
+    margin-top: 100px; 
+}
+
 .contentBox{
 
     display: flex;
