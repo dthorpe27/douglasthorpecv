@@ -27,7 +27,7 @@ h1{
 }
 
 .main {
-    margin-top: 100px; 
+    margin-top: 120px; 
 }
 
 .contentBox{
@@ -57,7 +57,7 @@ h1{
 }
 
 #experience1:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 #experience img {
 

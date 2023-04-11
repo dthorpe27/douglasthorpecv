@@ -3,20 +3,6 @@ body{
     font-family: 'segoe ui';
 }
 
-#previous-nav{
-    text-decoration: none!important;
-    font-family: 'segoe ui';
-    font-size: 40px;
-    margin-top: 2%;
-    background-color: rgba(36, 143, 243, 0.377);
-    border-radius: 10px;
-    border-style: solid;
-    border-color: rgb(139, 156, 172);
-    border-width: 3px;
-    transition: all .2s ease-in-out;
-    box-shadow: 6px 8px 6px 8px  rgba(16, 46, 75, 0.418);
-    color: rgba(24, 6, 41);
-}
 
 #main-content{
     display: flex;
@@ -27,7 +13,7 @@ body{
 
 
 .main {
-    margin-top: 100px; 
+    margin-top: 120px; 
 }
 
 
