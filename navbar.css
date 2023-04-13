@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
-    background: linear-gradient(30deg, rgb(60, 60, 61) , rgba(65, 68, 71, 0.568));
+    background: linear-gradient(30deg, rgb(60, 60, 61) , rgba(65, 68, 71, 0.8));
     padding-bottom: 25px;
     box-shadow: 3px 4px 3px 0px  rgba(16, 46, 75, 0.418);
     background-color: #333;
@@ -17,17 +17,17 @@
     font-family: 'segoe ui';
     font-size: 27px;
     margin-top: 2%;
-    background-color: rgba(36, 143, 243, 0.377);
+    background-color: rgba(105, 132, 156);
     border-style: solid;
     border-color: rgb(139, 156, 172);
     border-width: 1px;
-    border-radius: 8px;
+    border-radius: 4px;
     box-shadow: 3px 4px 3px 0px  rgba(16, 46, 75, 0.418);
     color: rgba(24, 6, 41);
     padding: 10px;
 }
 .home:hover{
-    background-color: rgba(99, 116, 133, 0.377);
+    background-color: rgba(131, 138, 145, 0.377);
     border-color: rgb(99, 116, 133, 0.377);
     border-width: 2.5px;
 
@@ -43,13 +43,13 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(36, 143, 243, 0.9);
+    background-color: rgba(105, 132, 156, 0.8);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     border-style: solid;
     border-color: rgb(139, 156, 172);
-    border-width: 3px;
+    border-width: 1.5px;
     border-top: none;
 }
 
@@ -62,7 +62,7 @@
 
 
 .dropdown-content a:hover {
-    background-color: rgba(99, 116, 133, 0.85);
+    background-color: rgba(101, 104, 110, 0.8);
 
 }
 
