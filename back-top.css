@@ -1,0 +1,26 @@
+#to-top {
+    display: none; 
+    position: fixed;
+    bottom: 5px;
+    right: 20px; 
+    z-index: 99; 
+    font-family: 'segoe ui';
+    font-size: 27px;
+    margin-top: 2%;
+    background-color: rgba(105, 132, 156 , 0.8);
+    color: rgba(24, 6, 41); 
+    cursor: pointer; 
+    padding: 10px; 
+    border-style: solid;
+    border-color: rgb(139, 156, 172);
+    border-width: 1px;
+    border-radius: 4px;
+    font-size: 22px;
+    font-weight: 625;
+}
+
+#to-top:hover {
+    background-color: rgba(131, 138, 145, 0.377);
+    border-color: rgb(99, 116, 133, 0.377);
+    border-width: 2.5px;
+}
